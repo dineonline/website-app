@@ -46,5 +46,10 @@
     "react-redux": "^4.4.2",
     "redux": "^3.4.0",
     "redux-devtools": "^3.2.0"
+    "redux-saga": "^0.9.5",
+    "reselect": "^2.3.0"
+  },
+  "engine": {
+    "node": ">= 5.10.x"
   }
 }
